@@ -35,7 +35,8 @@ To use the library functions in a program, include the **libftprintf.h** header 
 
 ### Links to my other projects at 42:
 
-- **[Main Page](../README.md)**
-- **[libft](/libft)**
-- **[get_next_line](/get_next_line)**
-- **[pipex](/pipex)**
+- **[Main Page](../../../Clocon)**
+- **[libft](../../../libft-42)**
+- **[get_next_line](../../../get_next_line-42)**
+- **[pipex](../../../pipex-42)**
+- **[push_swap](../../../push_swap-42)**
