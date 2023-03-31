@@ -6,7 +6,7 @@
 #    By: lumorale <lumorale@student.42malaga.com    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/12/14 12:26:10 by lumorale          #+#    #+#              #
-#    Updated: 2023/03/30 13:19:02 by lumorale         ###   ########.fr        #
+#    Updated: 2023/03/31 18:06:37 by lumorale         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -46,7 +46,7 @@ clean:
 				@echo "${CYELLOW}${NAME} $(CGREEN) -> ${CRED} objects files were deleted.${CRESET}"
 
 
-fclean:			
+fclean:			clean 
 				@$(RM) $(NAME)
 				@echo "${CYELLOW}${NAME} $(CGREEN) -> ${CRED} was deleted.${CRESET}"
 
