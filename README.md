@@ -41,3 +41,4 @@ To use the library functions in a program, include the **libftprintf.h** header 
 - **[pipex](../../../pipex-42)**
 - **[push_swap](../../../push_swap-42)**
 - **[so_long](../../../so_long-42)**
+- **[philosophers](../../../philosophers-42)**
